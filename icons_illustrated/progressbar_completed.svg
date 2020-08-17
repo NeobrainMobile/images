@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190.014" height="190.014" viewBox="0 0 190.014 190.014">
+  <defs>
+    <filter id="Ellipse_422" x="70.378" y="5.077" width="51" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12857" data-name="Group 12857" transform="translate(-92.622 -188.923)">
+    <g id="Group_11735" data-name="Group 11735" transform="translate(0 22)">
+      <g id="Group_11713" data-name="Group 11713" transform="translate(-11 -124)">
+        <g id="Group_11712" data-name="Group 11712" transform="translate(79.523 267.364)">
+          <g id="Group_11711" data-name="Group 11711" transform="translate(0 174.107) rotate(-70)">
+            <g id="Ellipse_420" data-name="Ellipse 420" transform="translate(18.802 18.802)" fill="none" stroke="rgba(112,112,112,0.22)" stroke-width="15">
+              <circle cx="74.125" cy="74.125" r="74.125" stroke="none"/>
+              <circle cx="74.125" cy="74.125" r="66.625" fill="none"/>
+            </g>
+            <g id="Group_11710" data-name="Group 11710" transform="translate(0)">
+              <g id="Path_23918" data-name="Path 23918" transform="translate(141.898 0) rotate(73)" fill="none" stroke-linecap="round">
+                <path d="M74.191,0A74.191,74.191,0,1,1,0,74.191,74.191,74.191,0,0,1,74.191,0Z" stroke="none"/>
+                <path d="M 74.19087219238281 15 C 41.55290222167969 15 15 41.55290222167969 15 74.19087219238281 C 15 106.8288421630859 41.55290222167969 133.3817443847656 74.19087219238281 133.3817443847656 C 106.8288421630859 133.3817443847656 133.3817443847656 106.8288421630859 133.3817443847656 74.19087219238281 C 133.3817443847656 41.55290222167969 106.8288421630859 15 74.19087219238281 15 M 74.19087219238281 0 C 115.1653442382812 0 148.3817443847656 33.21636962890625 148.3817443847656 74.19087219238281 C 148.3817443847656 115.1653442382812 115.1653442382812 148.3817443847656 74.19087219238281 148.3817443847656 C 33.21636962890625 148.3817443847656 0 115.1653442382812 0 74.19087219238281 C 0 33.21636962890625 33.21636962890625 0 74.19087219238281 0 Z" stroke="none" fill="#de1d25"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_11737" data-name="Group 11737" transform="translate(1 -2)">
+      <g transform="matrix(1, 0, 0, 1, 91.62, 190.92)" filter="url(#Ellipse_422)">
+        <circle id="Ellipse_422-2" data-name="Ellipse 422" cx="16.5" cy="16.5" r="16.5" transform="translate(79.38 11.08)" fill="#de1d25"/>
+      </g>
+      <path id="correct" d="M8.179,16.672a1.09,1.09,0,0,1-1.542,0L.479,10.513a1.635,1.635,0,0,1,0-2.313l.771-.771a1.635,1.635,0,0,1,2.313,0l3.844,3.845L17.8.886a1.635,1.635,0,0,1,2.313,0l.771.771a1.635,1.635,0,0,1,0,2.313Zm0,0" transform="translate(177 209.434)" fill="#fff"/>
+    </g>
+    <text id="_100_" data-name="100%" transform="translate(187.032 292.943)" fill="#707070" font-size="21" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="-28.927" y="0">100%</tspan></text>
+  </g>
+</svg>

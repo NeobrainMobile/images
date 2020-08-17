@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110.431" height="110.431" viewBox="0 0 110.431 110.431">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ec1b24"/>
+      <stop offset="1" stop-color="#8e2b2f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10064" data-name="Group 10064" transform="translate(-132.39 -58)">
+    <g id="Group_9899" data-name="Group 9899" transform="translate(8 3)">
+      <g id="Group_9898" data-name="Group 9898" transform="translate(124.39 55)" opacity="0.75">
+        <circle id="Ellipse_389" data-name="Ellipse 389" cx="55.216" cy="55.216" r="55.216" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="education" transform="translate(157.841 84.011)">
+      <path id="Tracé_22426" data-name="Tracé 22426" d="M37.18,38a16.31,16.31,0,1,0-11.547-4.791A16.31,16.31,0,0,0,37.18,38Zm0-30.32a14,14,0,1,1-14,14,14,14,0,0,1,14-14Z" transform="translate(0.06 0.04)" fill="#fff"/>
+      <path id="Tracé_22427" data-name="Tracé 22427" d="M37,43.65a21.85,21.85,0,1,0-18-9.51l-3.57,3.57-.49-.48a1.14,1.14,0,0,0-1.62,0h0L1.72,48.83a5.86,5.86,0,0,0,8.15,8.41,1.591,1.591,0,0,0,.13-.13l11.6-11.6a1.14,1.14,0,0,0,0-1.62l-.49-.49,3.57-3.57A21.77,21.77,0,0,0,37,43.65ZM37,2.3A19.53,19.53,0,1,1,17.48,21.827v0A19.54,19.54,0,0,1,37,2.3ZM8.38,55.49a3.56,3.56,0,0,1-5-5L14.13,39.66l.49.49h0l4.55,4.55ZM19.49,41.77l-2.44-2.43L20.41,36a21.62,21.62,0,0,0,2.44,2.44Z" transform="translate(0.06 0.04)" fill="#fff"/>
+      <path id="Tracé_22428" data-name="Tracé 22428" d="M33.24,18.63a1.14,1.14,0,0,0,1.15-1.15,2.79,2.79,0,1,1,4.14,2.44A4.8,4.8,0,0,0,36,24.09v1.64a1.15,1.15,0,1,0,2.3,0V24.09a2.53,2.53,0,0,1,1.33-2.17,5.08,5.08,0,1,0-7.56-4.44,1.14,1.14,0,0,0,1.17,1.15Z" transform="translate(0.06 0.04)" fill="#fff"/>
+      <path id="Tracé_22429" data-name="Tracé 22429" d="M37.17,29.06a1.147,1.147,0,1,0,1.15,1.15,1.13,1.13,0,0,0-1.15-1.15Z" transform="translate(0.06 0.04)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
