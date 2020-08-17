@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="43" viewBox="0 0 56 43">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.083" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8a7dd1"/>
+      <stop offset="1" stop-color="#c0b9e5"/>
+    </linearGradient>
+    <filter id="Path_24566" x="0" y="0" width="56" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Swtih_available" data-name="Swtih available" transform="translate(9 6)">
+    <g id="Group_11744" data-name="Group 11744" transform="translate(0 0.447)">
+      <g id="Group_11663" data-name="Group 11663">
+        <g id="Group_11662" data-name="Group 11662">
+          <g transform="matrix(1, 0, 0, 1, -9, -6.45)" filter="url(#Path_24566)">
+            <path id="Path_24566-2" data-name="Path 24566" d="M12.5,0h13a12.5,12.5,0,0,1,0,25h-13a12.5,12.5,0,0,1,0-25Z" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_11746" data-name="Group 11746" transform="translate(17 3.447)">
+      <g id="Group_11842" data-name="Group 11842">
+        <circle id="Ellipse_423" data-name="Ellipse 423" cx="9.5" cy="9.5" r="9.5" transform="translate(0 -0.447)" fill="#fff"/>
+        <path id="check" d="M13.438,1.7,5.877,13.239,1.667,9.484l.57-.639L5.7,11.939,12.723,1.226l.716.469Z" transform="translate(2.333 2.794)" fill="#8a7dd1"/>
+      </g>
+    </g>
+  </g>
+</svg>
