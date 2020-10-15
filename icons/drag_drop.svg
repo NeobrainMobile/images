@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="17" viewBox="0 0 12 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="12" height="17" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_99" data-name="Repeat Grid 99" clip-path="url(#clip-path)">
+    <g transform="translate(-27 -231)">
+      <circle id="Ellipse_541" data-name="Ellipse 541" cx="2" cy="2" r="2" transform="translate(27 231)" fill="#707070"/>
+    </g>
+    <g transform="translate(-21 -231)">
+      <circle id="Ellipse_541-2" data-name="Ellipse 541" cx="2" cy="2" r="2" transform="translate(27 231)" fill="#707070"/>
+    </g>
+    <g transform="translate(-27 -225)">
+      <circle id="Ellipse_541-3" data-name="Ellipse 541" cx="2" cy="2" r="2" transform="translate(27 231)" fill="#707070"/>
+    </g>
+    <g transform="translate(-21 -225)">
+      <circle id="Ellipse_541-4" data-name="Ellipse 541" cx="2" cy="2" r="2" transform="translate(27 231)" fill="#707070"/>
+    </g>
+    <g transform="translate(-27 -219)">
+      <circle id="Ellipse_541-5" data-name="Ellipse 541" cx="2" cy="2" r="2" transform="translate(27 231)" fill="#707070"/>
+    </g>
+    <g transform="translate(-21 -219)">
+      <circle id="Ellipse_541-6" data-name="Ellipse 541" cx="2" cy="2" r="2" transform="translate(27 231)" fill="#707070"/>
+    </g>
+  </g>
+</svg>
