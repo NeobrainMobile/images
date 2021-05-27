@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="18.333" viewBox="0 0 22 18.333">
+  <g id="suitcase" transform="translate(0 -2)">
+    <path id="Path_28728" data-name="Path 28728" d="M15,6.5a1,1,0,0,1-1-1V4H10V5.5a1,1,0,0,1-2,0V4a2,2,0,0,1,2-2h4a2,2,0,0,1,2,2V5.5A1,1,0,0,1,15,6.5Z" transform="translate(-1)" fill="#989999"/>
+    <path id="Path_28729" data-name="Path 28729" d="M11.651,15.38A1.748,1.748,0,0,1,11,15.5a1.861,1.861,0,0,1-.706-.14L0,11.62v7.63A2.641,2.641,0,0,0,2.521,22H19.479A2.641,2.641,0,0,0,22,19.25V11.62Z" transform="translate(0 -1.667)" fill="#989999"/>
+    <path id="Path_28730" data-name="Path 28730" d="M22,7.492V9.568L11.22,13.121a.686.686,0,0,1-.44,0L0,9.568V7.492A2.505,2.505,0,0,1,2.521,5H19.479A2.505,2.505,0,0,1,22,7.492Z" transform="translate(0 -0.455)" fill="#989999"/>
+  </g>
+</svg>
